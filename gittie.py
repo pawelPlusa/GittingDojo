@@ -3,6 +3,7 @@ def f_introduce():
     print("my name is Pawel")
     print("Let's see if it crashes")
     print("and again this function is developed")
+    print("lalalallaallala")
 
 def f_add(a,b):
     result = a + b
