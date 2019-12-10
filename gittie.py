@@ -12,3 +12,5 @@ def f_add(a,b):
 def f_joke():
     print("hahahah, what a great joke")
 
+def f_shout():
+    print("AAAAAAA!")
