@@ -1,7 +1,8 @@
 def f_introduce():
     print('Hello!')
     print("my name is Pawel")
-    Print("Let's see if it crashes")
+    print("Let's see if it crashes")
+    print("and again this function is developed")
 
 def f_add(a,b):
     result = a + b
